@@ -1,0 +1,2 @@
+# stcARENA
+sol
